@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "title": "Alpha",
+      "status": false,
+      "id": "A1"
+    },
+    {
+      "title": "Beta",
+      "status": false,
+      "id": "A2"
+    },
+    {
+      "title": "Gamma",
+      "status": false,
+      "id": "A3"
+    },
+    {
+      "title": "Delta",
+      "status": true,
+      "id": "A4"
+    }
+    
+  ]
+}
